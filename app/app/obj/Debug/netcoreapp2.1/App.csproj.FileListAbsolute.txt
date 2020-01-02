@@ -11,3 +11,4 @@ C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\POS GRADUAÇÃO\Youtube 2\app\app\ob
 C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\POS GRADUAÇÃO\Youtube 2\app\app\obj\Debug\netcoreapp2.1\app.RazorTargetAssemblyInfo.cache
 C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\POS GRADUAÇÃO\Youtube 2\app\app\obj\Debug\netcoreapp2.1\app.dll
 C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\POS GRADUAÇÃO\Youtube 2\app\app\obj\Debug\netcoreapp2.1\app.pdb
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\POS GRADUAÇÃO\Youtube 2\app\app\obj\Debug\netcoreapp2.1\App.csprojAssemblyReference.cache
